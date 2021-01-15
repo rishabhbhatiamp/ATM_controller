@@ -1,6 +1,6 @@
-## ATM_controller
+# ATM_controller
 
-# Running the project
+## Running the project
 The code compiles under gcc 4.8.4 with optimization level 1. Enter below command to compile the code:
 
 	g++ -std=c++11 -O1 driver.cpp -o main
@@ -11,7 +11,7 @@ To run the program, enter the below command:
 
 Follow the instructions displayed to go through the process of performing a transaction with the ATM API
 
-# About the project
+## About the project
 The project consists of the 4 following files.
 
 **1. Driver.cpp**
